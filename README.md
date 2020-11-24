@@ -25,6 +25,9 @@
 <img src="./images/Screenshot_2020-11-24 404-notFound(1).png" width 400px height 400px>
 
 ![Alt text](images/Screenshot_2020-11-24 404-notFound.png?raw=true "Optional Title")
+![Settings Window](https://raw.github.com/carlossalvadordiaz/404-not-found/master/images/Screenshot_2020-11-24 404-notFound.png)
+
+![ScreenShot](https://raw.github.com/carlossalvadordiaz/404-not-found/master/images/Screenshot_2020-11-24 404-notFound.png)
 
 
 
