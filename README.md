@@ -24,7 +24,7 @@
 
 <img src="./images/Screenshot_2020-11-24 404-notFound(1).png" width 400px height 400px>
 
-![Alt text](Screenshot_2020-11-24 404-notFound.png?raw=true "Optional Title")
+![Alt text](images/Screenshot_2020-11-24 404-notFound.png?raw=true "Optional Title")
 
 
 
