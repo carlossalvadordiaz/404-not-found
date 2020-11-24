@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&display=swap');
+
+*{
+    font-family: 'Electrolize', sans-serif;
+}
+
+
+/* **Mobile First** */
+
+ .wrapped {
+     display: flex;
+     flex-wrap: wrap;
+     max-width: 1400px;
+     margin: 10px;
+ }
+
+ .wrapped div:first-child {
+     width: 100%;
+     padding: 2%;
+ }
+
+ .wrapped div:first-child img {
+     width: 100%;
+ }
+
+ .wrapped div:nth-child(2) {
+     font-size: 10px;
+     width: 100%;
+     padding: 2%;
+ }
+ 
+ .wrapped div:nth-child(2) h1 {
+     font-size: 6em;
+     text-align: justify;
+ }
+
+ .wrapped div:nth-child(2) p {
+     font-size: 3em;
+     text-align: justify;
+ }
+
+ .wrapped div:nth-child(2) button {
+    background-color: #242424;
+    color: white;
+    padding: 20px;
+ }
+
+ div p:last-child {
+    max-width: 150px;
+    margin: 0 auto;
+    padding-top: 30px;
+
+ }
+
+ /* **Set desktop** */
+
+ @media(min-width: 62.750em) {
+     .wrapped {
+         margin: 5em;
+     }
+
+     .wrapped div:first-child {
+        width: 40%;
+        padding: 5%;
+     }
+     .wrapped div:nth-child(2) {
+        display: flex;
+        font-size: 12px;
+        width: 46%;
+        padding: 2%;
+    }
+
+    .wrapped div:nth-child(2) div {
+        width: 100%;
+    }
+ }
