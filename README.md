@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Simple 404 error page with Css pseudo-classes, MobileFirst</h1>
+<h1 align="center">Simple 404 error page with Css pseudo-classes, responsive MobileFirst</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
